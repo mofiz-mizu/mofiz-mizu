@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-**mofiz-mizu/mofiz-mizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**mofiz-mizu/mofiz-mizu** is a ✨ _special_ ✨ repository because its `README.md`
 ## Hello, I'm Mofiz Al Haque (Mizu)
 
 As a seasoned network engineer with 5 years of experience in designing and optimizing enterprise-scale infrastructures, I am transitioning into a DevOps role to leverage my expertise in automation, networking, and system architecture. I am excited to integrate cutting-edge tools and practices like Kubernetes, Terraform, and CI/CD pipelines to streamline application delivery and enhance system reliability. My goal is to bridge the gap between development and operations while contributing to scalable, secure, and efficient solutions.
