@@ -22,13 +22,13 @@ I have completed my B.Sc in __Computer science and engineering__ from American I
     - MTCNA, September-2023 - September-2026
     - CCNA v:7 June-2021- June 2024   
 ### 🔭 Work Experience
-    1. ##IT Administrator, February-2022 to Nevember-2023
+    1. IT Administrator, February-2022 to Nevember-2023
        Auleek Ltd.
        50, Lake circus, Kolabagan, Dhaka
-    2. ##Executive Engineer,July-2018 to December-2020
+    2. Executive Engineer,July-2018 to December-2020
        Tech Valley Solution Ltd.
        139, Lake circus, Kolabagan, Dhaka
-    3. ##Executive Engineer, March-2015 to June-2018
+    3. Executive Engineer, March-2015 to June-2018
        AccesTel Ltd.
        139, Lake circus, Kolabagan, Dhaka      
 ### Education
