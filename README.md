@@ -25,7 +25,7 @@ I have completed my B.Sc in __Computer science and engineering__ from American I
     1. IT Administrator, February-2022 to Nevember-2023
        Auleek Ltd.
        50, Lake circus, Kolabagan, Dhaka
-    2. Executive Engineer,July-2018 to December-2020
+    2. Executive Engineer,July-2018 to December-2019
        Tech Valley Solution Ltd.
        139, Lake circus, Kolabagan, Dhaka
     3. Executive Engineer, March-2015 to June-2018
